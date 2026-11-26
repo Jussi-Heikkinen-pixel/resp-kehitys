@@ -1,0 +1,18 @@
+{
+  "name": "resp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Resp-prototyyppi iOS-sovelluksena",
+  "scripts": {
+    "ios:setup": "npx cap add ios && npx cap sync ios",
+    "ios:sync": "npx cap sync ios",
+    "ios:open": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.0.0",
+    "@capacitor/ios": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}

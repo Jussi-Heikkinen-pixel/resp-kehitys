@@ -1,0 +1,8 @@
+{
+  "appId": "fi.resp.prototyyppi",
+  "appName": "Resp",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "never"
+  }
+}
